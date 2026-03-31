@@ -1,0 +1,6 @@
+Ce dossier est destiné à contenir les images du site :
+- Photos de profil des utilisateurs
+- Logo du site
+- Images d'illustration
+
+Pour l'instant, le site utilise des dégradés de couleurs comme placeholders pour les photos de profil.
